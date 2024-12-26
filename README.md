@@ -106,7 +106,13 @@ This project showcases a streamlined ETL (Extract, Transform, Load) pipeline tha
 
 ```plaintext
 sales_data_pipeline/
-── src/
+├──dashboard
+│   ├──analysis_dashboard
+├──destination_table
+│   ├── creating_destination_table.py
+├──order_data_generator
+│   ├── inserting_fake_data_to_db.py
+├── src/
 │   ├── extraction/
 │   │   ├── fetch_api.py
 │   │   ├── fetch_db.py
@@ -121,10 +127,5 @@ sales_data_pipeline/
 │   │   ├── db_connection.py
 │   │   ├── logging_setup.py
 │   ├── etl_pipeline.py
-├──dashboard
-│   ├──analysis_dashboard
-├──destination_table
-│   ├── creating_destination_table.py
-├──order_data_generator
-│   ├── inserting_fake_data_to_db.py
+
 
