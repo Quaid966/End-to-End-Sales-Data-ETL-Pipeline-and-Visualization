@@ -1,4 +1,14 @@
 # End-to-End-Sales-Data-ETL-Pipeline-and-Visualization
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)](https://www.postgresql.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458)](https://pandas.pydata.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-Visualization-F2C811)](https://powerbi.microsoft.com/)
+[![ETL](https://img.shields.io/badge/ETL-Pipeline-orange)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+[![REST API](https://img.shields.io/badge/REST-API-ff69b4)](https://en.wikipedia.org/wiki/REST)
+[![Data Visualization](https://img.shields.io/badge/Data-Visualization-yellowgreen)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Data Analysis](https://img.shields.io/badge/Data-Analysis-success)](https://en.wikipedia.org/wiki/Data_analysis)
+[![Automation](https://img.shields.io/badge/Automation-Ready-yellow)](https://en.wikipedia.org/wiki/Automation)
+[![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
 ## 🚀 Project Overview
 
