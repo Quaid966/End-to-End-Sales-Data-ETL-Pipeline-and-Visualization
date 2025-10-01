@@ -15,7 +15,7 @@
 This project showcases a streamlined ETL (Extract, Transform, Load) pipeline that integrates and visualizes sales data. The pipeline pulls data from two sources: a REST API and a PostgreSQL database. The data is then cleaned, processed, and transformed to be ready for analysis. After that, it's loaded into a PostgreSQL database. Finally, the data is displayed in an interactive Power BI dashboard, providing stakeholders with clear, actionable insights to support data-driven decision-making.
 
 ## Architecture 
-![Architecture.png](Architecture.png)
+![Architecture.png](Data_Architecture.png)
 
 ## 🔑 Key Features
 
